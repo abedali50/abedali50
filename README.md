@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# About me 
+### About me 
 I like football ⚽, math ♾️ and physics 🧲. 
 
 
