@@ -1,7 +1,11 @@
-### Hi there 👋
+## hi there 👋
 
-### About me 
-I like football ⚽, math ♾️ and physics 🧲. 
+### about me 
+i like football ⚽, math ♾️, physics 🧲 and computers 💻. probably other things too.
+
+### fun
+js/ts, python, java, sql, matlab.
+
 
 
 <!--
